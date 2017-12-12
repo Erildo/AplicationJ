@@ -8,7 +8,7 @@ public class Foles
 			   + "Me cilen shkronje deshironi te flas?");
 			   
 	   
-	  Foles folesi = new Foles(); 
+	  
 	   while (true)
 	   {
 		   String fjalia = JOptionPane.showInputDialog(
